@@ -1,4 +1,3 @@
-## SEIR 322 June 2, 2021
 
 # tunr-django
 All of the final Tunr Functionality built in Django
